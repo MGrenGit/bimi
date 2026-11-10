@@ -1,0 +1,21 @@
+<svg id="bimi-logo" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+  <title>Grenkov Test BIMI Logo</title>
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="236" fill="#1e293b" />
+  <!-- Inner accent ring -->
+  <circle cx="256" cy="256" r="216" fill="none" stroke="#3b82f6" stroke-width="12" />
+  <!-- Stylized Letter G -->
+  <path fill="#ffffff" d="M 330 190
+                           C 305 160, 260 150, 220 165
+                           C 170 185, 150 240, 165 295
+                           C 180 345, 235 365, 285 355
+                           C 320 345, 345 320, 355 285
+                           L 255 285
+                           L 255 250
+                           L 390 250
+                           C 390 300, 365 355, 315 385
+                           C 255 420, 175 405, 135 350
+                           C 95 290, 105 205, 160 155
+                           C 215 105, 305 110, 360 155
+                           Z" />
+</svg>
